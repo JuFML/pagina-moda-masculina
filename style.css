@@ -1,0 +1,135 @@
+* {
+    margin:0;
+    padding:0;
+    font-family: arial;
+    font-size: 17px;
+}
+.faixapreta {
+    color:#ffffff;
+    background-color: black;
+    height: 50px;
+}
+.menulogo {
+    height: 50px;
+    width: 1000px;
+    margin:auto;    
+}
+.logo {
+    height: 50px;
+    width: 125px;
+    float:left;
+    line-height: 50px;
+    text-align: center;
+    color:#ffffff;
+    font-size: 24px;
+    
+}
+.menu {
+    list-style: none;
+    float: right;
+    display: inline-block;
+    height: 50px;
+    line-height: 50px;
+    
+    
+    
+}
+.menu li {
+    display: inline;
+    padding-left: 10px;
+    line-height: 50px;
+    text-decoration: none;
+    color: w#ffffff;
+    font-size: 14px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    
+}
+
+.menu li:hover {
+    background-color: #347aba;
+    cursor: pointer;
+}
+.faixaazul {
+    background-color: #347aba;
+    height: 300px;
+}
+.faixaazulmenor {
+    height: 300px;
+    width: 1000px;
+    margin:auto;
+    
+}
+.faixaesquerda {
+    width: 500px;
+}   
+.faixadireita {
+    width: 500px;
+    position: absolute;
+    right: 0;
+    top:10px;
+    margin-top: 40px;
+    margin-right: 100px;
+}
+.frasebig {
+    color:#ffffff;
+    font-size: 48px;
+    padding-top: 60px;
+    width: 400px;
+}
+.frasesmall {
+    color:#ffffff;
+    font-size: 17px;
+    padding-top: 2px;
+    width: 400px;
+    margin-right:0;
+    
+}
+.button {
+    background-color:#ffc001;
+    width: 282px;
+    height: 56px;
+    text-align: center;
+    font-size: 20px;
+    border-radius: 5px;
+    margin-top: 20px;
+    color:black;
+    line-height: 56px;
+    
+}
+.button:hover {  
+    cursor: pointer;
+}
+.faixabranca {
+    background-color: w#ffffff;
+    height: 90px;
+    font-size: 20px;
+    line-height: 90px;
+    text-align: center;
+}
+.corpobranco {
+    background-color: #ffffff;
+    height: 507px;
+    width: 1000px;
+    margin:auto;
+    margin-bottom: 40px;
+}
+
+.imagem1, .imagem2, .imagem3, .imagem4 {
+    display: inline-block;
+    padding-left: 20px;
+}
+.rodape {
+    background-color: #347aba;
+    height: 50px;
+    position:static;
+    bottom:0px;
+    left:0px;
+    line-height: 50px;
+    text-align: center;
+    color:#ffffff;
+    
+
+}
